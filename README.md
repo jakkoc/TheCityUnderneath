@@ -1,6 +1,6 @@
 # The City Underneath
 ---
-### *2D platformer in lovecraftian style made in unity.*
+### *2D platformer in lovecraftian style made in Unity.*
 ### *In progress*
 ![Cornucopia](Assets/Environment/Artwork/cornucopia.jpg?raw=true)
 # Key features
@@ -13,7 +13,7 @@
 
 # Development
 ---
-* Characters are turned into sprites using Photoshop and unity Sprite Editor.
+* Characters are turned into sprites using Photoshop and Unity Sprite Editor.
 * Scripts are written using C#.
 
 # Inspiration
