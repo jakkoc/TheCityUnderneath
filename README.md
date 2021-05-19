@@ -17,7 +17,7 @@
 * Scripts are written using C#.
 
 # Inspiration
---
+---
 * Assets are created based on Sam Lamout's [concept art](https://moonskinned.co.uk/projects/nYXK96?album_id=1029802).
 * Environment are created using Szadi Art free [Platformer Set](https://assetstore.unity.com/packages/2d/environments/platformer-set-150023).
 * Main theme is heavily inspired by From Software [Bloodborne](https://www.fromsoftware.jp/ww/detail.html?csm=094).
