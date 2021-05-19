@@ -1,4 +1,4 @@
-# The-City-Underneath
+# The City Underneath
 ---
 ### *2D platformer in lovecraftian style made in unity.*
 ### *In progress*
