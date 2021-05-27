@@ -6,7 +6,7 @@
 # Key features
 ---
 * Three different areas
-* 15 unique, animated characters
+* 14 unique, animated characters
 * Spine-chilling background music
 * Five types of weapons
 * Insight mechanic
